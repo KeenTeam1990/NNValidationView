@@ -22,6 +22,6 @@
 
 #### 效果图
 
-![效果图](https://github.com/liuzhongning/NNValidationView/blob/master/sampleImage/111.gif)
+![效果图](https://github.com/KeenTeam1990/NNValidationView/blob/master/sampleImage/111.gif)
 
-![打印结果](https://github.com/liuzhongning/NNValidationView/blob/master/sampleImage/Snip20170731_14.png)
+![打印结果](https://github.com/KeenTeam1990/NNValidationView/blob/master/sampleImage/Snip20170731_14.png)
